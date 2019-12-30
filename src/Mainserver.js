@@ -3,7 +3,7 @@ var mysql = require('mysql');
 var bodyParser = require('body-parser');
 const app=express();
 const cors=require('cors');
-
+const port=process.env.PORT || 4000;
 
 app.use(cors());
 app.use(bodyParser.json());
@@ -141,5 +141,5 @@ var sql=  "UPDATE free SET name='"+edname+"', projectname='"+edprojectname+"', n
 
        
 
-      	port=process.env.PORT || 4000;
+      	
        app.listen(port,()=>console.log("listening port 4000"));
