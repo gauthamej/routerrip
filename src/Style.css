@@ -1,0 +1,166 @@
+.font{
+        font-family: 'Prociono', serif;
+        font-size: 20px;
+        color: black;
+       }
+      .con{
+         margin-top: 100px;
+         font-family: 'Bitter', serif;
+         font-size: 45px;
+       }
+       .result{
+        margin-top: 50px;
+        font-family: 'Bitter', serif;
+        font-size: 45px;
+       }
+       .result1{
+        margin-top: 30px;
+        font-family: 'Bitter', serif;
+        font-size: 45px;
+       }
+       .total{
+        margin-top: 100px;
+        font-family: 'Bitter', serif;
+        font-size: 40px;
+        color: rgb(81, 204, 50);
+       }
+       .con1{
+        margin-top: 30px;
+         font-family: 'Bitter', serif;
+         font-size: 20px;
+       }
+       .con2{
+       
+         font-family: 'Bitter', serif;
+         font-size: 30px;
+        color: darkkhaki;
+        text-decoration:underline;
+       }
+       .con3{
+       
+        font-family: 'Bitter', serif;
+        font-size: 40px;
+        color: darkkhaki;
+        text-decoration:underline;
+      }
+      
+      .con4{
+       
+        font-family: 'Bitter', serif;
+        font-size: 20px;
+        margin-left: 40px;
+        color: rgb(32, 36, 33);
+      }
+      .con5{
+        margin-top: 50px;
+        font-family: 'Bitter', serif;
+        font-size: 30px;
+         margin-left: 60px;        
+        color: darkkhaki;
+        text-decoration:underline;
+      }
+       .cls{
+        margin-left: 30px;
+
+       }
+       .fa{
+           font-size: 100px;
+           margin-left: 400px;
+           margin-top: 85px;
+       }
+      
+       .details{
+        font-size: 20px;
+        font-family: 'Bitter', serif;
+       color: cornflowerblue;
+       }
+      
+       .form-group{
+           margin-top:50px ;
+       }
+       
+       .btn{
+           margin-top: 60px;
+           width: 300px;
+           margin-left: 60px;
+           
+       }
+       .btn1{
+        margin-top: 30px;
+        width: 250px;
+        margin-left: 80px;
+        
+    }
+    .btn2{
+        margin-top: 30px;
+        width: 250px;
+        margin-left: 500px;
+        
+    }
+
+       .space{
+           margin-top: 40px;
+       }
+       #project{
+           border: 1px solid blue;
+           width:100%     
+
+       }
+       .dark1{
+        font-size: 15px;
+        font-family: 'Bitter', serif;
+        color: rgb(145, 255, 0);
+       }
+       .dark{
+        font-size: 15px;
+        font-family: 'Bitter', serif;
+       }
+       
+
+      .space1{
+          margin-top: 200px;
+      }
+      .space2{
+          margin-top: 10px;
+          margin-left: 100px;
+      }
+      .display{
+          display: inline-flex;
+      }
+      .display1{
+        display: inline-flex;
+        margin-top: 10px;
+        margin-left: 100px;
+      }
+      .inputh{
+          height: 100px;
+          margin-left: 350px;
+      }
+      .inputgroup{
+          text-align:center;
+      }
+      .box{
+          
+          border: 2px solid wheat;
+          width: 700px;
+          margin-left: 300px;
+      }
+      .table1{
+          margin-left:350px
+      }
+      .nav-links{
+         
+          display: flex;
+          justify-content:space-around;
+          align-items: center;
+          list-style: none;
+      }
+      .color{
+          color: black;
+          font-size: 20px;
+      }
+      .bgcol{
+       background-image: url("img2.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+      }
