@@ -9,10 +9,10 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
 var con = mysql.createConnection({
-    host: "localhost",
-    user: "root",
-    password: "",
-    database:"gau"
+    host: "us-cdbr-iron-east-05.cleardb.net",
+    user: "b5ea69f026e8a6",
+    password: "9c1360f7",
+    database:"heroku_76e10794546ce3e"
     
   });
   
